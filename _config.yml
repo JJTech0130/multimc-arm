@@ -1,1 +1,6 @@
+title: MultiMC5 for ARM
+description: MultiMC built for ARM64
+show_downloads: false
 theme: jekyll-theme-cayman
+gems:
+  - jekyll-mentions
