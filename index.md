@@ -1,4 +1,4 @@
-[![Downloads](https://img.shields.io/github/downloads/JJTech0130/multimc-arm/total?style=for-the-badge)](https://github.com/JJTech0130/multimc-arm/releases/latest) [![Travis (.com)](https://img.shields.io/travis/com/JJTech0130/MultiMC5?style=for-the-badge)](https://travis-ci.com/JJTech0130/MultiMC5)
+[![Downloads](https://img.shields.io/github/downloads/JJTech0130/multimc-arm/total?style=for-the-badge)](https://github.com/JJTech0130/multimc-arm/releases/latest) [![Travis (.com)](https://img.shields.io/travis/com/JJTech0130/multimc-arm?style=for-the-badge)](https://travis-ci.com/JJTech0130/multimc-arm)
 
 This fork hosts the ARM64 builds for MultiMC. These builds are **UNOFFICIAL!** This is *not* supported or endorsed by the MultiMC team in any way!
 
