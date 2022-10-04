@@ -1,3 +1,16 @@
+---
+placeholder: "placeholder"
+---
+---
+
+> ### ⚠️ This fork is no longer being updated.
+
+It has come to my attention that a significant amount of people are led here by Google search results.
+
+Thanks to the amazing work of [@theofficialgman](https://github.com/theofficialgman/), you can now download MultiMC [directly from Pi-Apps](https://github.com/Botspot/pi-apps/wiki/Apps-List#-minecraft-java-multimc5).
+
+---
+
 [![Downloads](https://img.shields.io/github/downloads/JJTech0130/multimc-arm/total?style=for-the-badge)](https://github.com/JJTech0130/multimc-arm/releases/latest) [![Travis (.com)](https://img.shields.io/travis/com/JJTech0130/multimc-arm?style=for-the-badge)](https://travis-ci.com/JJTech0130/multimc-arm)
 
 This repository hosts the ARM64 builds for MultiMC. These builds are **UNOFFICIAL!** This is *not* supported or endorsed by the MultiMC team in any way!
