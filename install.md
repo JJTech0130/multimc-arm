@@ -1,3 +1,16 @@
+---
+placeholder: "placeholder"
+---
+---
+
+> ### ⚠️ This fork is no longer being updated.
+
+It has come to my attention that a significant amount of people are led here by Google search results.
+
+Thanks to the amazing work of [@theofficialgman](https://github.com/theofficialgman/), you can now download MultiMC [directly from Pi-Apps](https://github.com/Botspot/pi-apps/wiki/Apps-List#-minecraft-java-multimc5).
+
+---
+
 # Installing
 To install MultiMC for ARM64, you need to download the latest release from the [releases page](https://github.com/JJTech0130/MultiMC5/releases/) or build it yourself following the instructions [here](build).
 
